@@ -38,7 +38,6 @@ body {
   height: 105px;
 }
 
-
 .header__address {
   display: flex;
   flex-direction: column;
@@ -182,7 +181,6 @@ body {
 .card__text {
   font-weight: 400;
   font-size: 20px;
-  font-weight: normal;
   z-index: 1;
 }
 
@@ -256,7 +254,7 @@ body {
 }
 
 .footer__address {
-  display: flex ;
+  display: flex;
   flex-direction: column;
   margin-left: 50px;
   margin-bottom: 82px;
