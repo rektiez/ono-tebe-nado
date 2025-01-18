@@ -19,12 +19,11 @@ body {
 
 .header__link {
   text-underline-position: under;
-  margin-right: 2px;
+  margin-right: 1px;
 }
 
 .header__links-list-item_no-bullit {
   list-style: none;
-  margin-right: 0px;
 }
 .header__logo,
 .header__logo-image {
